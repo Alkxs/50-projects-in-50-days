@@ -4,5 +4,4 @@
 | #             | Project        | Live Demo  |
 | --------------|:-------------: | ----------:|
 |1              | Expanding Cards| Live Demo  |
-|               |                |            |
-|               |                |            |
+
