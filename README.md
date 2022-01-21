@@ -3,5 +3,5 @@
 
 | #             | Project        | Live Demo  |
 | --------------|:-------------: | ----------:|
-|1              | Expanding Cards| [Live Demo](https://github.com/Alkxs/50-pojects-in-50-days/tree/main/01-Expanding-Cards)  |
+|1              | [Expanding Cards](https://github.com/Alkxs/50-pojects-in-50-days/tree/main/01-Expanding-Cards)|   |
 
