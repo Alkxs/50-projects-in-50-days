@@ -9,3 +9,4 @@
 |4              |[Hidden Search Widget](https://github.com/Alkxs/50-projects-in-50-days/tree/main/04.%20Hidden%20search%20widget)| [Live Demo](https://happy-heyrovsky-7b7cb4.netlify.app) |
 
 
+https://github.com/Alkxs/50-projects-in-50-days/tree/main/05.%20Blurry%20loading
