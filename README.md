@@ -8,7 +8,7 @@
 |3              |[Rotating Navigation](https://github.com/Alkxs/50-projects-in-50-days/tree/main/03.%20Rotating%20navigation)| [Live Demo](https://eager-lichterman-458614.netlify.app) |
 |4              |[Hidden Search Widget](https://github.com/Alkxs/50-projects-in-50-days/tree/main/04.%20Hidden%20search%20widget)| [Live Demo](https://happy-heyrovsky-7b7cb4.netlify.app) |
 |5             |[Blurry Loading](https://github.com/Alkxs/50-projects-in-50-days/tree/main/05.%20Blurry%20loading)| [Live Demo](https://awesome-cori-809c16.netlify.app) |
-
+|5             |[Blurry Loading](https://github.com/Alkxs/50-projects-in-50-days/tree/main/05.%20Blurry%20loading)| [Live Demo](https://awesome-cori-809c16.netlify.app) |
 
 
 https://github.com/Alkxs/50-projects-in-50-days/tree/main/06.%20Scroll%20Animation
