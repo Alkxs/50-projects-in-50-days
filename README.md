@@ -9,7 +9,7 @@
 |4              |[Hidden Search Widget](https://github.com/Alkxs/50-projects-in-50-days/tree/main/04.%20Hidden%20search%20widget)| [Live Demo](https://happy-heyrovsky-7b7cb4.netlify.app) |
 |5             |[Blurry Loading](https://github.com/Alkxs/50-projects-in-50-days/tree/main/05.%20Blurry%20loading)| [Live Demo](https://awesome-cori-809c16.netlify.app) |
 |6             |[Scroll Animation](https://github.com/Alkxs/50-projects-in-50-days/tree/main/06.%20Scroll%20Animation)| [Live Demo](https://flamboyant-swirles-268532.netlify.app) |
-|7             |[Split Landing Page](https://github.com/Alkxs/50-projects-in-50-days/tree/main/06.%20Scroll%20Animation)| [Live Demo](https://flamboyant-swirles-268532.netlify.app) |
+|7             |[Split Landing Page](https://github.com/Alkxs/50-projects-in-50-days/tree/main/07.%20%20Split%20Landing%20Page)| [Live Demo](https://flamboyant-swirles-268532.netlify.app) |
 
 
 
