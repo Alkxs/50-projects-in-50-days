@@ -10,7 +10,7 @@
 |5             |[Blurry Loading](https://github.com/Alkxs/50-projects-in-50-days/tree/main/05.%20Blurry%20loading)| [Live Demo](https://awesome-cori-809c16.netlify.app) |
 |6             |[Scroll Animation](https://github.com/Alkxs/50-projects-in-50-days/tree/main/06.%20Scroll%20Animation)| [Live Demo](https://flamboyant-swirles-268532.netlify.app) |
 |7             |[Split Landing Page](https://github.com/Alkxs/50-projects-in-50-days/tree/main/07.%20%20Split%20Landing%20Page)| [Live Demo](https://vigorous-hodgkin-2a2b9e.netlify.app) |
+|8             |[Form Wave](https://github.com/Alkxs/50-projects-in-50-days/tree/main/08.%20Form%20Wave)| [Live Demo](https://admiring-wescoff-8aed1d.netlify.app) |
 
 
-https://github.com/Alkxs/50-projects-in-50-days/tree/main/08.%20Form%20Wave
-https://admiring-wescoff-8aed1d.netlify.app
+
