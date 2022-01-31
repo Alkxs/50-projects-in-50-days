@@ -13,7 +13,7 @@
 |8|[Form Wave](https://github.com/Alkxs/50-projects-in-50-days/tree/main/08.%20Form%20Wave)| [Live Demo](https://admiring-wescoff-8aed1d.netlify.app) |
 |9|[Sound Board](https://github.com/Alkxs/50-projects-in-50-days/tree/main/09.%20Sound%20Board)| [Live Demo](https://silly-yonath-527d5a.netlify.app) |
 |10|[Dad Jokes](https://github.com/Alkxs/50-projects-in-50-days/tree/main/10.%20Dad%20Jokes)| [Live Demo](https://zealous-ritchie-7ae87b.netlify.app) |
-|11|[Event Keynotes](https://github.com/Alkxs/50-projects-in-50-days/tree/main/11.%20Event%20Keynotes)| [Live Demo](https://zealous-ritchie-7ae87b.netlify.app) |
+|11|[Event Keynotes](https://github.com/Alkxs/50-projects-in-50-days/tree/main/11.%20Event%20Keynotes)| [Live Demo](https://quirky-johnson-87ee0c.netlify.app) |
 
 
 
