@@ -15,7 +15,7 @@
 |10|[Dad Jokes](https://github.com/Alkxs/50-projects-in-50-days/tree/main/10.%20Dad%20Jokes)| [Live Demo](https://zealous-ritchie-7ae87b.netlify.app) |
 |11|[Event Keynotes](https://github.com/Alkxs/50-projects-in-50-days/tree/main/11.%20Event%20Keynotes)| [Live Demo](https://quirky-johnson-87ee0c.netlify.app) |
 |12|[Faq Collapse](https://github.com/Alkxs/50-projects-in-50-days/tree/main/12.%20%20Faq%20Collapse)| [Live Demo](https://hardcore-lovelace-31c7e2.netlify.app) |
-|13|[Random choice Picker](https://github.com/Alkxs/50-projects-in-50-days/tree/main/13.%20Random%20Choice%20Picker)| [Live Demo](https://ecstatic-rosalind-12fee0.netlify.app) |
+|13|[Random Choice Picker](https://github.com/Alkxs/50-projects-in-50-days/tree/main/13.%20Random%20Choice%20Picker)| [Live Demo](https://ecstatic-rosalind-12fee0.netlify.app) |
 
 
 
