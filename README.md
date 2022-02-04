@@ -17,7 +17,7 @@
 |12|[Faq Collapse](https://github.com/Alkxs/50-projects-in-50-days/tree/main/12.%20%20Faq%20Collapse)| [Live Demo](https://hardcore-lovelace-31c7e2.netlify.app) |
 |13|[Random Choice Picker](https://github.com/Alkxs/50-projects-in-50-days/tree/main/13.%20Random%20Choice%20Picker)| [Live Demo](https://ecstatic-rosalind-12fee0.netlify.app) |
 |14|[Animated Navigation](https://github.com/Alkxs/50-projects-in-50-days/tree/main/14.%20Animated%20Navigation)| [Live Demo](https://jovial-mayer-86d304.netlify.app) |
-|15|[Animated Navigation](https://github.com/Alkxs/50-projects-in-50-days/tree/main/14.%20Animated%20Navigation)| [Live Demo](https://jovial-mayer-86d304.netlify.app) |
+|15|[Incrementing counter](https://github.com/Alkxs/50-projects-in-50-days/tree/main/15.%20Incrementing%20Counter)| [Live Demo](https://jovial-mayer-86d304.netlify.app) |
 
 
 
