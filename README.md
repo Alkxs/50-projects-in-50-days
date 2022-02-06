@@ -19,6 +19,7 @@
 |14|[Animated Navigation](https://github.com/Alkxs/50-projects-in-50-days/tree/main/14.%20Animated%20Navigation)| [Live Demo](https://jovial-mayer-86d304.netlify.app) |
 |15|[Incrementing Counter](https://github.com/Alkxs/50-projects-in-50-days/tree/main/15.%20Incrementing%20Counter)| [Live Demo](https://peaceful-goldberg-def67d.netlify.app) |
 |16|[Drink Water](https://github.com/Alkxs/50-projects-in-50-days/tree/main/16.%20Drink%20Water)| [Live Demo](https://focused-villani-a8e8e2.netlify.app) |
+|17|[Drink Water](https://github.com/Alkxs/50-projects-in-50-days/tree/main/16.%20Drink%20Water)| [Live Demo](https://focused-villani-a8e8e2.netlify.app) |
 
 
 
