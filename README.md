@@ -20,7 +20,7 @@
 |15|[Incrementing Counter](https://github.com/Alkxs/50-projects-in-50-days/tree/main/15.%20Incrementing%20Counter)| [Live Demo](https://peaceful-goldberg-def67d.netlify.app) |
 |16|[Drink Water](https://github.com/Alkxs/50-projects-in-50-days/tree/main/16.%20Drink%20Water)| [Live Demo](https://focused-villani-a8e8e2.netlify.app) |
 |17|[Movie App](https://github.com/Alkxs/50-projects-in-50-days/tree/main/17.%20Movie%20App)| [Live Demo](https://sad-ride-c2a686.netlify.app) |
-|18|[Movie App](https://github.com/Alkxs/50-projects-in-50-days/tree/main/17.%20Movie%20App)| [Live Demo](https://sad-ride-c2a686.netlify.app) |
+|18|[Background Slider](https://github.com/Alkxs/50-projects-in-50-days/tree/main/17.%20Movie%20App)| [Live Demo](https://sad-ride-c2a686.netlify.app) |
 
 
 
