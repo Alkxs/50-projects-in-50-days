@@ -24,4 +24,4 @@
 |19|[Theme Clock](https://github.com/Alkxs/50-projects-in-50-days/tree/main/19.%20Theme%20Clock)| [Live Demo](https://determined-nobel-601175.netlify.app) |
 |20|[Button Ripple Effect](https://github.com/Alkxs/50-projects-in-50-days/tree/main/20.%20Button%20Ripple%20Effect)| [Live Demo](https://practical-williams-df4d48.netlify.app) |
 |21|[Drag N Drop](https://github.com/Alkxs/50-projects-in-50-days/tree/main/21.%20Drag%20N%20Drop)| [Live Demo](https://romantic-ardinghelli-8c659f.netlify.app) |
-|22|[Drawing App]()| [Live Demo]() |
+|22|[Drawing App](https://github.com/Alkxs/50-projects-in-50-days/tree/main/22.%20Drawing%20App)| [Live Demo](https://priceless-blackwell-c4663b.netlify.app) |
