@@ -25,3 +25,4 @@
 |20|[Button Ripple Effect](https://github.com/Alkxs/50-projects-in-50-days/tree/main/20.%20Button%20Ripple%20Effect)| [Live Demo](https://practical-williams-df4d48.netlify.app) |
 |21|[Drag N Drop](https://github.com/Alkxs/50-projects-in-50-days/tree/main/21.%20Drag%20N%20Drop)| [Live Demo](https://romantic-ardinghelli-8c659f.netlify.app) |
 |23|[Kinetic Loader](https://github.com/Alkxs/50-projects-in-50-days/tree/main/23.%20Kinetic%20Loader)| [Live Demo](https://romantic-keller-72dff2.netlify.app) |
+|24|[]()| [Live Demo]() |
