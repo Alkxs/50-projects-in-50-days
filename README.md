@@ -26,3 +26,4 @@
 |21|[Drag N Drop](https://github.com/Alkxs/50-projects-in-50-days/tree/main/21.%20Drag%20N%20Drop)| [Live Demo](https://romantic-ardinghelli-8c659f.netlify.app) |
 |23|[Kinetic Loader](https://github.com/Alkxs/50-projects-in-50-days/tree/main/23.%20Kinetic%20Loader)| [Live Demo](https://romantic-keller-72dff2.netlify.app) |
 |24|[Content Placeholder](https://github.com/Alkxs/50-projects-in-50-days/tree/main/24.%20Content%20Placeholder)| [Live Demo](https://elastic-ardinghelli-8907c0.netlify.app) |
+|25|[]()| [Live Demo]() |
