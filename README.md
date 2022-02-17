@@ -28,7 +28,7 @@
 |24|[Content Placeholder](https://github.com/Alkxs/50-projects-in-50-days/tree/main/24.%20Content%20Placeholder)| [Live Demo](https://elastic-ardinghelli-8907c0.netlify.app) |
 |25|[Sticky Navbar](https://github.com/Alkxs/50-projects-in-50-days/tree/main/25.%20Sticky%20Navbar)| [Live Demo](https://modest-tereshkova-eca983.netlify.app) |
 |26|[Double vertical slider](https://github.com/Alkxs/50-projects-in-50-days/tree/main/26.%20Double%20Vertical%20Slider)| [Live Demo](https://nifty-wiles-4728cc.netlify.app) |
-
+||[]()| [Live Demo]() |
 
 
 
