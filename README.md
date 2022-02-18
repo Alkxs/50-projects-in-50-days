@@ -29,7 +29,7 @@
 |25|[Sticky Navbar](https://github.com/Alkxs/50-projects-in-50-days/tree/main/25.%20Sticky%20Navbar)| [Live Demo](https://modest-tereshkova-eca983.netlify.app) |
 |26|[Double vertical slider](https://github.com/Alkxs/50-projects-in-50-days/tree/main/26.%20Double%20Vertical%20Slider)| [Live Demo](https://nifty-wiles-4728cc.netlify.app) |
 |27|[Toast Notification](https://github.com/Alkxs/50-projects-in-50-days/tree/main/27.%20Toast%20Notification)| [Live Demo](https://compassionate-payne-a93156.netlify.app) |
+|28|[Github Profiles]()| [Live Demo]() |
 ||[]()| [Live Demo]() |
-
 
 
