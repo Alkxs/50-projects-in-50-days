@@ -30,6 +30,7 @@
 |26|[Double vertical slider](https://github.com/Alkxs/50-projects-in-50-days/tree/main/26.%20Double%20Vertical%20Slider)| [Live Demo](https://nifty-wiles-4728cc.netlify.app) |
 |27|[Toast Notification](https://github.com/Alkxs/50-projects-in-50-days/tree/main/27.%20Toast%20Notification)| [Live Demo](https://compassionate-payne-a93156.netlify.app) |
 |28|[Github Profiles](https://github.com/Alkxs/50-projects-in-50-days/tree/main/28.%20Github%20Profiles)| [Live Demo](https://nervous-khorana-8930a0.netlify.app) |
+|29|[Double Click Heart](https://github.com/Alkxs/50-projects-in-50-days/tree/main/29.%20Double%20Click%20Heart)| [Live Demo](https://vibrant-bell-1392eb.netlify.app) |
 ||[]()| [Live Demo]() |
 
 
