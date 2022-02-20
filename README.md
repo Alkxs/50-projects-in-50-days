@@ -32,5 +32,5 @@
 |28|[Github Profiles](https://github.com/Alkxs/50-projects-in-50-days/tree/main/28.%20Github%20Profiles)| [Live Demo](https://nervous-khorana-8930a0.netlify.app)|
 |29|[Double Click Heart](https://github.com/Alkxs/50-projects-in-50-days/tree/main/29.%20Double%20Click%20Heart)| [Live Demo](https://vibrant-bell-1392eb.netlify.app) |
 ||[]()| [Live Demo]() |
-
+||[]()| [Live Demo]() |
 
