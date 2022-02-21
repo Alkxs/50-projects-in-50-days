@@ -33,4 +33,5 @@
 |29|[Double Click Heart](https://github.com/Alkxs/50-projects-in-50-days/tree/main/29.%20Double%20Click%20Heart)| [Live Demo](https://vibrant-bell-1392eb.netlify.app) |
 |30|[Auto Text Effect](https://github.com/Alkxs/50-projects-in-50-days/tree/main/30.%20Auto%20Text%20Effect)| [Live Demo](https://silly-golick-a0c6b6.netlify.app) |
 ||[]()| [Live Demo]() |
+||[]()| [Live Demo]() |
 
