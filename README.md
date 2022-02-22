@@ -34,4 +34,5 @@
 |30|[Auto Text Effect](https://github.com/Alkxs/50-projects-in-50-days/tree/main/30.%20Auto%20Text%20Effect)| [Live Demo](https://silly-golick-a0c6b6.netlify.app) |
 |31|[Password Generator](https://github.com/Alkxs/50-projects-in-50-days/tree/main/31.%20Password%20Generator)| [Live Demo](https://goofy-minsky-f2ca52.netlify.app) |
 ||[]()| [Live Demo]() |
+||[]()| [Live Demo]() |
 
