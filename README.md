@@ -35,4 +35,4 @@
 |31|[Password Generator](https://github.com/Alkxs/50-projects-in-50-days/tree/main/31.%20Password%20Generator)| [Live Demo](https://goofy-minsky-f2ca52.netlify.app) |
 |32|[Good Cheap Fast](https://github.com/Alkxs/50-projects-in-50-days/tree/main/32.%20Good%20Cheap%20Fast)| [Live Demo](https://jovial-panini-483f1d.netlify.app) |
 ||[]()| [Live Demo]() |
-
+||[]()| [Live Demo]() |
