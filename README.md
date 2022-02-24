@@ -35,5 +35,5 @@
 |31|[Password Generator](https://github.com/Alkxs/50-projects-in-50-days/tree/main/31.%20Password%20Generator)| [Live Demo](https://goofy-minsky-f2ca52.netlify.app) |
 |32|[Good Cheap Fast](https://github.com/Alkxs/50-projects-in-50-days/tree/main/32.%20Good%20Cheap%20Fast)| [Live Demo](https://jovial-panini-483f1d.netlify.app) |
 |33|[Notes App](https://github.com/Alkxs/50-projects-in-50-days/tree/main/33.%20Notes%20App)| [Live Demo](https://sleepy-colden-4e634f.netlify.app) |
-||[]()| [Live Demo]() |
+|34|[Animated Countdown]()| [Live Demo]() |
 ||[]()| [Live Demo]() |
