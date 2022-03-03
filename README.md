@@ -42,6 +42,6 @@
 |38|[Mobile Tab Navigation](https://github.com/Alkxs/50-projects-in-50-days/tree/main/38.%20Mobile%20Tab%20Navigation)| [Live Demo](https://awesome-kare-81613f.netlify.app) |
 |39|[Password Strength Background](https://github.com/Alkxs/50-projects-in-50-days/tree/main/39.%20Password%20Strength%20Background)| [Live Demo](https://fervent-hermann-12efd0.netlify.app) |
 |50|[3d Background Boxes](https://github.com/Alkxs/50-projects-in-50-days/tree/main/40.%203D%20Background%20Boxes)| [Live Demo](https://pedantic-jang-b4dfb3.netlify.app) |
-|51|[Verify Account UI]()| [Live Demo]() |
+|51|[Verify Account UI](https://github.com/Alkxs/50-projects-in-50-days/tree/main/41.%20Verify%20Account%20UI)| [Live Demo]() |
 ||[]()| [Live Demo]() |
 
