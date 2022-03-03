@@ -43,4 +43,5 @@
 |39|[Password Strength Background](https://github.com/Alkxs/50-projects-in-50-days/tree/main/39.%20Password%20Strength%20Background)| [Live Demo](https://fervent-hermann-12efd0.netlify.app) |
 |50|[3d Background Boxes](https://github.com/Alkxs/50-projects-in-50-days/tree/main/40.%203D%20Background%20Boxes)| [Live Demo](https://pedantic-jang-b4dfb3.netlify.app) |
 ||[]()| [Live Demo]() |
+||[]()| [Live Demo]() |
 
