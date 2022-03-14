@@ -43,6 +43,6 @@
 |39|[Password Strength Background](https://github.com/Alkxs/50-projects-in-50-days/tree/main/39.%20Password%20Strength%20Background)| [Live Demo](https://fervent-hermann-12efd0.netlify.app) |
 |40|[3d Background Boxes](https://github.com/Alkxs/50-projects-in-50-days/tree/main/40.%203D%20Background%20Boxes)| [Live Demo](https://pedantic-jang-b4dfb3.netlify.app) |
 |41|[Verify Account UI](https://github.com/Alkxs/50-projects-in-50-days/tree/main/41.%20Verify%20Account%20UI)| [Live Demo](https://heuristic-fermi-0b6379.netlify.app) |
-|42|[Live User Filter]()| [Live Demo]() |
+|42|[Live User Filter](https://github.com/Alkxs/50-projects-in-50-days/tree/main/42.%20%20Live%20User%20Filter)| [Live Demo](https://quirky-archimedes-812c00.netlify.app) |
 ||[]()| [Live Demo]() |
 
