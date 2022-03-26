@@ -45,6 +45,6 @@
 |41|[Verify Account UI](https://github.com/Alkxs/50-projects-in-50-days/tree/main/41.%20Verify%20Account%20UI)| [Live Demo](https://heuristic-fermi-0b6379.netlify.app) |
 |42|[Live User Filter](https://github.com/Alkxs/50-projects-in-50-days/tree/main/42.%20%20Live%20User%20Filter)| [Live Demo](https://quirky-archimedes-812c00.netlify.app) |
 |43|[Feedback UI design](https://github.com/Alkxs/50-projects-in-50-days/tree/main/43.%20Feedback%20Ui%20Design)| [Live Demo](http://thriving-macaron-74a348.netlify.app) |
-|44|[Custom Range Slider]()| [Live Demo]() |
+|44|[Custom Range Slider](https://github.com/Alkxs/50-projects-in-50-days/tree/main/44.%20Custom%20Range%20Slider)| [Live Demo](http://inquisitive-marshmallow-710019.netlify.app) |
 ||[]()| [Live Demo]() |
 
