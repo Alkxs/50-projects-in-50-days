@@ -46,5 +46,5 @@
 |42|[Live User Filter](https://github.com/Alkxs/50-projects-in-50-days/tree/main/42.%20%20Live%20User%20Filter)| [Live Demo](https://quirky-archimedes-812c00.netlify.app) |
 |43|[Feedback UI design](https://github.com/Alkxs/50-projects-in-50-days/tree/main/43.%20Feedback%20Ui%20Design)| [Live Demo](http://thriving-macaron-74a348.netlify.app) |
 |44|[Custom Range Slider](https://github.com/Alkxs/50-projects-in-50-days/tree/main/44.%20Custom%20Range%20Slider)| [Live Demo](http://inquisitive-marshmallow-710019.netlify.app) |
-|45|[Netflix Mobile Navigation]()| [Live Demo]() |
+|45|[Netflix Mobile Navigation](https://github.com/Alkxs/50-projects-in-50-days/tree/main/45.%20Netflix%20Mobile%20Navigation)| [Live Demo](http://ornate-gingersnap-9f4dcb.netlify.app) |
 ||[]()| [Live Demo]() |
