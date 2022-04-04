@@ -50,5 +50,5 @@
 |46|[Quiz App](https://github.com/Alkxs/50-projects-in-50-days/tree/main/46.%20Quiz%20App)| [Live Demo](http://lighthearted-medovik-6bf493.netlify.app) |
 |47|[Testimonial Box  Switcher](https://github.com/Alkxs/50-projects-in-50-days/tree/main/47.%20Testimonial%20Box%20%20Switcher)| [Live Demo](http://elaborate-faun-09c5af.netlify.app) |
 |48|[Random Image Feed](https://github.com/Alkxs/50-projects-in-50-days/tree/main/48.%20Random%20Image%20Feed)| [Live Demo](http://beamish-biscuit-0ee0f4.netlify.app) |
-||[]()| [Live Demo]() |
+|49|[Todo list](https://github.com/Alkxs/50-projects-in-50-days/tree/main/49.%20Todo%20list)| [Live Demo]() |
 ||[]()| [Live Demo]() |
