@@ -51,4 +51,4 @@
 |47|[Testimonial Box  Switcher](https://github.com/Alkxs/50-projects-in-50-days/tree/main/47.%20Testimonial%20Box%20%20Switcher)| [Live Demo](http://elaborate-faun-09c5af.netlify.app) |
 |48|[Random Image Feed](https://github.com/Alkxs/50-projects-in-50-days/tree/main/48.%20Random%20Image%20Feed)| [Live Demo](http://beamish-biscuit-0ee0f4.netlify.app) |
 |49|[Todo list](https://github.com/Alkxs/50-projects-in-50-days/tree/main/49.%20Todo%20list)| [Live Demo](http://phenomenal-cascaron-69e152.netlify.app) |
-|50|[Insect Catch game](https://github.com/Alkxs/50-projects-in-50-days/tree/main/50.%20Insect%20Catch%20Game)| [Live Demo]() |
+|50|[Insect Catch game](https://github.com/Alkxs/50-projects-in-50-days/tree/main/50.%20Insect%20Catch%20Game)| [Live Demo](http://exquisite-kashata-baf44f.netlify.app) |
