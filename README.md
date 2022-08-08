@@ -21,7 +21,7 @@ This is a purely project-based course. This course includes 50 mini projects in 
 
 ### Website link
 
-[Website link](https://www.udemy.com/course/50-projects-50-days/)
+[50 projects in 50 days](https://www.udemy.com/course/50-projects-50-days/)
 
 
 
