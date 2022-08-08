@@ -19,7 +19,9 @@ This is a purely project-based course. This course includes 50 mini projects in 
 - JSON, Promises & Async/Await, Local storage APIs
 
 
-### Website link - [Website link] (https://www.udemy.com/course/50-projects-50-days/)
+### Website link
+
+[Website link] (https://www.udemy.com/course/50-projects-50-days/)
 
 
 
