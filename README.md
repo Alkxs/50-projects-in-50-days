@@ -1,5 +1,16 @@
-# 50-projects-in-50-days
+# 50 Projects In 50 Days - HTML, CSS & JavaScript
 50 Projects based on HTML, CSS and Javascript
+
+## Description
+
+This is a purely project-based course. This course includes 50 mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model). 
+
+## Course Credits:
+
+* Co-author, Brad Traversy
+* Co-author, Florin Pop
+
+
 
 | #             | Project        | Live Demo  |
 | --------------|:-------------| ----------:|
